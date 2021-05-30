@@ -1,0 +1,26 @@
+{
+  "name": "domains/myfakedomain.com/trafficStats/20210205",
+  "userReportedSpamRatio": 0.002,
+  "ipReputations": [
+    {
+      "reputation": "BAD"
+    },
+    {
+      "reputation": "LOW"
+    },
+    {
+      "reputation": "MEDIUM"
+    },
+    {
+      "reputation": "HIGH",
+      "ipCount": "1",
+      "sampleIps": [
+        "168.245.109.202"
+      ]
+    }
+  ],
+  "spfSuccessRatio": 1,
+  "dkimSuccessRatio": 1,
+  "dmarcSuccessRatio": 1,
+  "inboundEncryptionRatio": 1
+}
